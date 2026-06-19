@@ -252,4 +252,4 @@ Output: virality_score (0-1)
 Higher score = more likely to go viral
 ```
 
-This is why you get the ranking: **War → AI → Cafe** ✅
+This is why you get the ranking: **War → AI → Cafe** ✅# ResonantBERT-updated-copy-
